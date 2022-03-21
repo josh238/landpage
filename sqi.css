@@ -1,0 +1,135 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#navy{
+  text-decoration: none;
+  font-size: 14px;
+}
+.contain{
+background: -webkit-linear-gradient(rgb(224, 169, 224),rgb(38, 38, 133));
+  text-align: center;
+  justify-items: center ;
+  background-attachment: fixed;
+
+  color: white;
+  text-transform: uppercase;
+  width:100% !important;
+  height: 109vh;
+  
+}
+.h4{
+  font-size: 67px !important;
+  padding-top: 245px!important;
+}
+
+
+.course-heading {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 50px 0;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.columnn{
+  text-align: center;
+  height: 40vh;
+  /* width: 30vh; */
+  
+}
+#bake{
+  background-color: rgba(13, 13, 97, 0.349);
+  justify-content: end;
+  float: left;
+}
+
+
+
+.bg-secondary{
+  background: -webkit-linear-gradient(rgb(235, 223, 235),rgb(5, 5, 107));
+  
+}
+
+
+  #testimony{
+    padding-left: 160px;
+  }
+#testi{
+  
+  font-family: serif;
+  color: rgb(11, 11, 112)!important;
+  font-weight: bold;
+}
+.author{
+  display: flex;
+}
+
+.author img{
+  object-fit: cover;
+  border-radius: 75%;
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+
+}
+#ready{
+  background-color: rgb(24, 56, 238);
+  color: white;
+  text-decoration: none;
+  border-radius: 23px;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  box-shadow:0px 0px 3px 0px rgb(49, 45, 45);
+
+}
+#things{
+  display:flex;
+  
+  
+}
+#ram{
+  padding: 96px;
+  line-height: 182%;
+}
+#ram h1{
+  color: rgb(16, 16, 77);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  font-size: 50px;
+
+}
+#sec5{
+   background: linear-gradient(rgb(33, 64, 85),rgb(141, 113, 141));
+   /* height: 70vh; */
+   padding: 94px;
+   text-align: center;
+   
+
+}
+ #sec5 h1{
+  text-shadow:
+  1px 1px 2px black, 0 0 25px rgb(51, 51, 75), 0 0 5px rgb(16, 16, 37) !important;
+  font-size: 55px;
+  font-weight: bold;
+}
+.bg-primary{
+  background-color: darkblue !important;
+}
+.fs-5, ul{
+  font-size: 11px!important;
+  line-break: 12px;
+
+}
+
+#main-footer{
+  background-color: rgb(1, 1, 68)
+  ;
+}
+
+ /* @media(max-width:768px){
+#id ba
+ } */
+
